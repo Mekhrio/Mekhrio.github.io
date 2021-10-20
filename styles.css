@@ -1,0 +1,16 @@
+td.description,td.rank {
+min-width: 450px;
+max-width: 650px;
+text-align: left;
+padding: 50px;
+margin: 100px;
+vertical-align: top;}
+.rank{
+	vertical-align: top;
+}
+td.imag{
+	padding:100px;
+}
+/*body{
+	padding: 200px;
+}*/
